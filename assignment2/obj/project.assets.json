@@ -452,11 +452,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/iqbal/Desktop/Backend/assignment2/assignment1/assignment1.csproj",
+      "projectUniqueName": "/Users/iqbal/Desktop/Backend/assignment2/HTTP5125-A2/assignment2/assignment1.csproj",
       "projectName": "assignment1",
-      "projectPath": "/Users/iqbal/Desktop/Backend/assignment2/assignment1/assignment1.csproj",
+      "projectPath": "/Users/iqbal/Desktop/Backend/assignment2/HTTP5125-A2/assignment2/assignment1.csproj",
       "packagesPath": "/Users/iqbal/.nuget/packages/",
-      "outputPath": "/Users/iqbal/Desktop/Backend/assignment2/assignment1/obj/",
+      "outputPath": "/Users/iqbal/Desktop/Backend/assignment2/HTTP5125-A2/assignment2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/iqbal/.nuget/NuGet/NuGet.Config"
